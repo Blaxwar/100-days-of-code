@@ -1,13 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: February 10, 2018
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Udacitys Course CS101 - Lesson 11: How to manage data
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I have started this course weeks ago, but i had not taked note of exactly when. So i'm right now on the lesson 11: How To Manage Data. Let's see what is about!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** https://classroom.udacity.com/courses/cs101/lessons/48727569/concepts/486836650923
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
